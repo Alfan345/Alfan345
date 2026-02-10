@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a **6th-semester Informatics student** at Telkom University Purwokerto with a passion for building **production-ready systems** that solve real-world problems. Currently advancing through **3 intensive programs simultaneously**:
+I'm a Fresh Graduate from Telkom University Purwokerto with a passion for building **production-ready systems** that solve real-world problems. Currently advancing through **3 intensive programs simultaneously**:
 
 - 🌩️ **Bangkit Academy 2025** - Cloud Computing Path (464 hours)
 - 🤖 **DBS Foundation Coding Camp 2025** - Machine Learning Engineer (936 hours)  
